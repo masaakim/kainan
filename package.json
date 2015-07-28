@@ -1,0 +1,19 @@
+{
+  "name": "kainan",
+  "version": "0.0.1",
+  "description": "Kainan is the strict CSS preprocessor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morishitter/kainan/git"
+  },
+  "keywords": ["css","preprocessor","postcss","postcss-plugin"],
+  "author": "Masaaki Morishita",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
